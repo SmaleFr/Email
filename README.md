@@ -3,6 +3,11 @@
 ENZO LABODRE, ETIENNE ROUSSEAU, ALICE QUENTREC
 ```
 
+# LIEN GITHUB
+```
+https://github.com/SmaleFr/Email
+```
+
 ## Project setup
 ```
 npm install
