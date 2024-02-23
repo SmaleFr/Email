@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "d7f6",
+      "email": "Etiennerousseau@gmail.com",
+      "password": "Etienou",
+      "name": "Etienne"
+    },
+    {
+      "id": "f78a",
+      "email": "alicequentrec@gmail.com",
+      "password": "Alicelapisse",
+      "name": "Alice"
+    },
+    {
+      "id": "5e53",
+      "email": "Matteolaborde91@gmail.com",
+      "password": "Matt24",
+      "name": "Matteo"
+    },
+    {
+      "id": "3f94",
+      "email": "Batman@gmail.com",
+      "password": "Batou",
+      "name": "Batman"
+    },
+    {
+      "id": "2652",
+      "email": "enzolaborde91@gmail.com",
+      "password": "Enzo91",
+      "name": "Enzo"
+    }
+  ],
+  "email": [
+    {
+      "id": 1,
+      "A": "Etienne",
+      "objet": "Compliment",
+      "contenu": "Sah t'es trop BG"
+    },
+    {
+      "id": 2,
+      "A": "Alice",
+      "objet": "ski",
+      "contenu": "Sympa le ski ?"
+    },
+    {
+      "id": 3,
+      "A": "Enzo",
+      "objet": "Valorant",
+      "contenu": "Viens jouer a valorant"
+    },
+    {
+      "id": "79cd",
+      "A": "Alice",
+      "objet": "Café",
+      "contenu": "Chaud pour un starbucks demain matin ?"
+    },
+    {
+      "id": "a025",
+      "A": "Etienne",
+      "objet": "Restaurant",
+      "contenu": "Demain on va manger au ,resto ?"
+    }
+  ]
+}
