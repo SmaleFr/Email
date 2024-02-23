@@ -1,4 +1,7 @@
-# email
+# ON PROJECT
+```
+ENZO LABODRE, ETIENNE ROUSSEAU, ALICE QUENTREC
+```
 
 ## Project setup
 ```
@@ -15,9 +18,13 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### INSTALL DB
 ```
-npm run lint
+npm i -g json-server
+```
+### START DB
+```
+json-server --watch db.json
 ```
 
 ### Customize configuration
